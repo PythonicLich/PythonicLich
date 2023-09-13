@@ -36,23 +36,25 @@ I am Pythonic Lich! I am preparing a BTS SIO SLAM degree through the CNED. I am 
 
 <details><summary>🎯 skillset goals</summary>
   <br>
-  <img src="https://img.shields.io/badge/AWS-pink?logo=amazonaws"></img>
-  <img src="https://img.shields.io/badge/Azure-pink?logo=microsoftazure"></img>
-  <img src="https://img.shields.io/badge/R-pink?logo=r"></img>
-  <img src="https://img.shields.io/badge/PHP-pink?logo=php"></img>
-  <img src="https://img.shields.io/badge/Docker-pink?logo=docker"></img>
-  <img src="https://img.shields.io/badge/Terraform-pink?logo=terraform"></img>
-  <img src="https://img.shields.io/badge/Kubernetes-pink?logo=kubernetes"></img>
+  <img src="https://img.shields.io/badge/AWS-grey?logo=amazonaws"></img>
+  <img src="https://img.shields.io/badge/Azure-grey?logo=microsoftazure"></img>
+  <img src="https://img.shields.io/badge/R-grey?logo=r"></img>
+  <img src="https://img.shields.io/badge/PHP-grey?logo=php"></img>
+  <img src="https://img.shields.io/badge/Docker-grey?logo=docker"></img>
+  <img src="https://img.shields.io/badge/Terraform-grey?logo=terraform"></img>
+  <img src="https://img.shields.io/badge/Kubernetes-grey?logo=kubernetes"></img>
 </details>
 
 <details><summary>📖 🎮 interests</summary>
   <br>
-  - Progression Fantasy (Cradle, Mother of Learning, Mage Errant)<br>
-  - LitRPGs<br>
-  - CRPGs (Baldur's Gate, Pathfinder, Planescape Torment, Neverwinter Nights)<br>
-  - Metroidvanias<br>
-  - Point & Clicks<br>
-  - Choose your own adventure<br>
+  <ul>
+  <li>Progression Fantasy (Cradle, Mother of Learning, Mage Errant)</li>
+  <li>LitRPGs</li>
+  <li>CRPGs (Baldur's Gate, Pathfinder, Planescape Torment, Neverwinter Nights)</li>
+  <li>Metroidvanias</li>
+  <li>Point & Clicks</li>
+  <li>Choose your own adventure</li>
+  </ul>
 </details>
 
 <details>
@@ -60,10 +62,28 @@ I am Pythonic Lich! I am preparing a BTS SIO SLAM degree through the CNED. I am 
     🌱 education
   </summary>
   <br>
-  * CNED SIO SLAM 2023-2025<br>
-  * Coursera<br>
-  * Codecademy<br>
-  * Freecodecamp<br>
+  <ul>
+  <li>CNED BTS SIO SLAM 2023-2025</li>
+  <li>Coursera</li>
+  <li>Codecademy</li>
+  <li>Freecodecamp</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    🤼 Soft Skills
+  </summary>
+  <br>
+  <ul>
+  <li>Agile Project Management</li>
+  <li>Scrumban</li>
+  <li>Communication</li>
+  <li>Cooperation</li>
+  <li>Adaptability</li>
+  <li>Problem Solving</li>
+  <li>Emotional Intelligence</li>
+  </ul>
 </details>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,bash,powershell,lua,md,react,regex,sqlite,bootstrap,discord,dotnet,figma,stackoverflow)](https://skillicons.dev)
