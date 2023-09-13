@@ -1,8 +1,72 @@
 ### Hi there 👋
-I am Pythonic Lich! I am preparing a BTS SIO SLAM degree through the CNED. I am currently in my first year and I'm looking for an internship. I am aiming to become a fullstack developer. I love programming and I'm interested in collaborating on projects.
+I am Pythonic Lich! I am preparing a BTS SIO SLAM degree through the CNED. I am currently in my first year and I'm looking for an internship. I am studying to become a software developer. I love programming and I'm interested in collaborating on projects.
 
-### Current skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,bash,powershell,lua,md,react,regex,sqlite,bootstrap,discord,dotnet,figma,stackoverflow)](https://skillicons.dev)
+<details><summary>💻 languages</summary>
+  <br>
+  <img src="https://img.shields.io/badge/javascript-ECMAScript_2021-blue?logo=javascript"></img>
+  <img src="https://img.shields.io/badge/C_Sharp-7.00-blue?logo=CSharp"></img>
+  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=Python"></img>
+  <img src="https://img.shields.io/badge/HTML-5-blue?logo=html5"></img>
+  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3"></img>
+</details>
+
+<details><summary>🚀 stacks and frameworks</summary>
+  <br>
+  <img src="https://img.shields.io/badge/react-18-blue?logo=react"></img>
+  <img src="https://img.shields.io/badge/Node-18.00-blue?logo=nodedotjs"></img>
+  <img src="https://img.shields.io/badge/.NET-7.00-blue?logo=.NET"></img>
+  <img src="https://img.shields.io/badge/Blazor-blue?logo=blazor"></img>
+  <img src="https://img.shields.io/badge/Material-v5-blue?logo=MUI"></img>
+  <img src="https://img.shields.io/badge/Bootstrap-5-blue?logo=bootstrap"></img>
+  <img src="https://img.shields.io/badge/Django-3.00-blue?logo=django"></img>
+  <img src="https://img.shields.io/badge/Flask-2.00-blue?logo=flask"></img>
+  <img src="https://img.shields.io/badge/Fast_API-0.1-blue?logo=fastapi"></img>
+</details>
+
+<details><summary>🛠 tools</summary>
+  <br>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-black?logo=visualstudiocode"></img>
+  <img src="https://img.shields.io/badge/Visual_Studio-2019-black?logo=visualstudio"></img>
+  <img src="https://img.shields.io/badge/PyCharm-black?logo=pycharm"></img>
+  <img src="https://img.shields.io/badge/Jira-black?logo=jira"></img>
+  <img src="https://img.shields.io/badge/Confluence-black?logo=confluence"></img>
+  <img src="https://img.shields.io/badge/Git-black?logo=git"></img>
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github"></img>
+</details>
+
+<details><summary>🎯 skillset goals</summary>
+  <br>
+  <img src="https://img.shields.io/badge/AWS-pink?logo=amazonaws"></img>
+  <img src="https://img.shields.io/badge/Azure-pink?logo=microsoftazure"></img>
+  <img src="https://img.shields.io/badge/R-pink?logo=r"></img>
+  <img src="https://img.shields.io/badge/PHP-pink?logo=php"></img>
+  <img src="https://img.shields.io/badge/Docker-pink?logo=docker"></img>
+  <img src="https://img.shields.io/badge/Terraform-pink?logo=terraform"></img>
+  <img src="https://img.shields.io/badge/Kubernetes-pink?logo=kubernetes"></img>
+</details>
+
+<details><summary>📖 🎮 interests</summary>
+  <br>
+  - Progression Fantasy (Cradle, Mother of Learning, Mage Errant)<br>
+  - LitRPGs<br>
+  - CRPGs (Baldur's Gate, Pathfinder, Planescape Torment, Neverwinter Nights)<br>
+  - Metroidvanias<br>
+  - Point & Clicks<br>
+  - Choose your own adventure<br>
+</details>
+
+<details>
+  <summary>
+    🌱 education
+  </summary>
+  <br>
+  * CNED SIO SLAM 2023-2025<br>
+  * Coursera<br>
+  * Codecademy<br>
+  * Freecodecamp<br>
+</details>
+
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,bash,powershell,lua,md,react,regex,sqlite,bootstrap,discord,dotnet,figma,stackoverflow)](https://skillicons.dev)
 
 ### Current frameworks and tools
 [![My Frameworks](https://skillicons.dev/icons?i=git,github,jest,linux,nodejs,flask,django,selenium,visualstudio,vscode)](https://skillicons.dev)
@@ -10,7 +74,7 @@ I am Pythonic Lich! I am preparing a BTS SIO SLAM degree through the CNED. I am 
 ### Skills I'm working on and eager to develop through a new project
 [![My Future Skills](https://skillicons.dev/icons?i=java,php,webpack,vite,vue,kotlin,azure,androidstudio,aws,babel,cloudflare,d3,electron,docker,express,fastapi,flutter,gcp,spring,hibernate,jquery,jenkins,laravel,kubernetes,materialui,mongodb,mysql,nginx,postgres,pytorch,qt,r,redux,symfony)](https://skillicons.dev)
 
-<!--
+
 **PythonicLich/PythonicLich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
