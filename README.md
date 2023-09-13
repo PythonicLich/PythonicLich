@@ -34,7 +34,7 @@ I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I
   <img src="https://img.shields.io/badge/GitHub-black?logo=github"></img>
 </details>
 
-<details><summary>🎯 skillset goals</summary>
+<details><summary>🎯 skills to acquire</summary>
   <br>
   <img src="https://img.shields.io/badge/AWS-grey?logo=amazonaws"></img>
   <img src="https://img.shields.io/badge/Azure-grey?logo=microsoftazure"></img>
@@ -86,7 +86,7 @@ I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I
 
 <details>
   <summary>
-    🤼 Soft Skills
+    🤼 soft skills
   </summary>
   <br>
   <img src="https://img.shields.io/badge/Agile_Project_Management-gold"></img>
