@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Pythonic Lich! I am preparing a BTS SIO SLAM degree through the CNED. I am currently in my first year and I'm looking for an internship. I am studying to become a software developer. I love programming and I'm interested in collaborating on projects.
+I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I am currently in my first year and I'm looking for an internship. I am studying to become a software developer. I love programming and I'm interested in collaborating on projects.
 
 <details><summary>💻 languages</summary>
   <br>
@@ -85,6 +85,8 @@ I am Pythonic Lich! I am preparing a BTS SIO SLAM degree through the CNED. I am 
   <li>Emotional Intelligence</li>
   </ul>
 </details>
+
+I can't wait to hear from you! Send me a message through my <a href="https://github.com/PythonicLich/PythonicLich/issues" target="_blank">Guest Book!</a>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,bash,powershell,lua,md,react,regex,sqlite,bootstrap,discord,dotnet,figma,stackoverflow)](https://skillicons.dev)
 
