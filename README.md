@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Pythonic Lich! I am preparing a BTS SIO SLAM degree through the CNED. I am currently in my first year and I'm looking for an internship. I am aiming to become a fullstack developer.
+I am Pythonic Lich! I am preparing a BTS SIO SLAM degree through the CNED. I am currently in my first year and I'm looking for an internship. I am aiming to become a fullstack developer. I love programming and I'm interested in collaborating on projects.
 
 ### Current skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,bash,powershell,lua,md,react,regex,sqlite,bootstrap,discord,dotnet,figma,stackoverflow)](https://skillicons.dev)
