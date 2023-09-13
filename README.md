@@ -63,10 +63,11 @@ I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I
   </summary>
   <br>
   <ul>
-  <li>CNED BTS SIO SLAM 2023-2025</li>
-  <li>Coursera</li>
-  <li>Codecademy</li>
-  <li>Freecodecamp</li>
+  <li><img src="https://img.shields.io/badge/CNED-BTS_SIO_SLAM_2023-gold"></img></li>
+  <li><img src="https://img.shields.io/badge/Coursera-Specializations-gold?logo=coursera"></img></li>
+  <li><img src="https://img.shields.io/badge/Codecademy-Career_paths-gold?logo=codecademy"></img></li>
+  <li><img src="https://img.shields.io/badge/Freecodecamp-Certifications-gold?logo=freecodecamp"></img></li>
+  <li><img src="https://img.shields.io/badge/Udemy-Hands_on_skills-gold?logo=udemy"></img></li>
   </ul>
 </details>
 
