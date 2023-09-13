@@ -18,7 +18,7 @@ I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I
   <img src="https://img.shields.io/badge/Blazor-blue?logo=blazor"></img>
   <img src="https://img.shields.io/badge/Material-v5-blue?logo=MUI"></img>
   <img src="https://img.shields.io/badge/Bootstrap-5-blue?logo=bootstrap"></img>
-  <img src="https://img.shields.io/badge/Django-3.00-blue?logo=django"></img>
+  <img src="https://img.shields.io/badge/Django-4.00-blue?logo=django"></img>
   <img src="https://img.shields.io/badge/Flask-2.00-blue?logo=flask"></img>
   <img src="https://img.shields.io/badge/Fast_API-0.1-blue?logo=fastapi"></img>
 </details>
