@@ -4,7 +4,7 @@ I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I
 <details><summary>💻 languages</summary>
   <br>
   <img src="https://img.shields.io/badge/javascript-ECMAScript_2021-blue?logo=javascript"></img>
-  <img src="https://img.shields.io/badge/C_Sharp-7.00-blue?logo=CSharp"></img>
+  <img src="https://img.shields.io/badge/C_Sharp-11.00-blue?logo=CSharp"></img>
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=Python"></img>
   <img src="https://img.shields.io/badge/HTML-5-blue?logo=html5"></img>
   <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3"></img>
