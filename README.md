@@ -1,4 +1,14 @@
 ### Hi there 👋
+I am Pythonic Lich! I am preparing a BTS SIO SLAM degree through the CNED. I am currently in my first year and I'm looking for an internship. I am aiming to become a fullstack developer.
+
+### Current skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,bash,powershell,lua,md,react,regex,sqlite,bootstrap,discord,dotnet,figma,stackoverflow)](https://skillicons.dev)
+
+### Current frameworks
+[![My Frameworks](https://skillicons.dev/icons?i=git,github,jest,linux,nodejs,flask,django,selenium,visualstudio,vscode)](https://skillicons.dev)
+
+### Skills I'm working onskills
+[![My Future Skills](https://skillicons.dev/icons?i=java,php,webpack,vite,vue,kotlin,azure,androidstudio,aws,babel,cloudflare,d3,electron,docker,express,fastapi,flutter,gcp,spring,hibernate,jquery,jenkins,laravel,kubernetes,materialui,mongodb,mysql,nginx,postgres,pytorch,qt,r,redux,symfony)](https://skillicons.dev)
 
 <!--
 **PythonicLich/PythonicLich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
