@@ -7,7 +7,7 @@ I am Pythonic Lich! I am preparing a BTS SIO SLAM degree through the CNED. I am 
 ### Current frameworks
 [![My Frameworks](https://skillicons.dev/icons?i=git,github,jest,linux,nodejs,flask,django,selenium,visualstudio,vscode)](https://skillicons.dev)
 
-### Skills I'm working onskills
+### Skills I'm working on and eager to develop through a new project
 [![My Future Skills](https://skillicons.dev/icons?i=java,php,webpack,vite,vue,kotlin,azure,androidstudio,aws,babel,cloudflare,d3,electron,docker,express,fastapi,flutter,gcp,spring,hibernate,jquery,jenkins,laravel,kubernetes,materialui,mongodb,mysql,nginx,postgres,pytorch,qt,r,redux,symfony)](https://skillicons.dev)
 
 <!--
