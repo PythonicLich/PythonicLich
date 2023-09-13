@@ -4,7 +4,7 @@ I am Pythonic Lich! I am preparing a BTS SIO SLAM degree through the CNED. I am 
 ### Current skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,bash,powershell,lua,md,react,regex,sqlite,bootstrap,discord,dotnet,figma,stackoverflow)](https://skillicons.dev)
 
-### Current frameworks
+### Current frameworks and tools
 [![My Frameworks](https://skillicons.dev/icons?i=git,github,jest,linux,nodejs,flask,django,selenium,visualstudio,vscode)](https://skillicons.dev)
 
 ### Skills I'm working on and eager to develop through a new project
