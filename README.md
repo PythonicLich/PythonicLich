@@ -38,11 +38,24 @@ I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I
   <br>
   <img src="https://img.shields.io/badge/AWS-grey?logo=amazonaws"></img>
   <img src="https://img.shields.io/badge/Azure-grey?logo=microsoftazure"></img>
+  <img src="https://img.shields.io/badge/Google_Cloud-grey?logo=googlecloud"></img>
   <img src="https://img.shields.io/badge/R-grey?logo=r"></img>
   <img src="https://img.shields.io/badge/PHP-grey?logo=php"></img>
+  <img src="https://img.shields.io/badge/Kotlin-grey?logo=kotlin"></img>
   <img src="https://img.shields.io/badge/Docker-grey?logo=docker"></img>
   <img src="https://img.shields.io/badge/Terraform-grey?logo=terraform"></img>
   <img src="https://img.shields.io/badge/Kubernetes-grey?logo=kubernetes"></img>
+  <img src="https://img.shields.io/badge/Linux-grey?logo=linux"></img>
+  <img src="https://img.shields.io/badge/Ubuntu-grey?logo=ubuntu"></img>
+  <img src="https://img.shields.io/badge/Android-grey?logo=android"></img>
+  <img src="https://img.shields.io/badge/iOS-grey?logo=ios"></img>
+  <img src="https://img.shields.io/badge/Anaconda-grey?logo=anaconda"></img>
+  <img src="https://img.shields.io/badge/Pandas-grey?logo=pandas"></img>
+  <img src="https://img.shields.io/badge/Numpy-grey?logo=numpy"></img>
+  <img src="https://img.shields.io/badge/Sympy-grey?logo=sympy"></img>
+  <img src="https://img.shields.io/badge/Jupyter-grey?logo=jupyter"></img>
+  <img src="https://img.shields.io/badge/D3.js-grey?logo=d3dotjs"></img>
+  <img src="https://img.shields.io/badge/Chart.js-grey?logo=chartdotjs"></img>
 </details>
 
 <details><summary>📖 🎮 interests</summary>
