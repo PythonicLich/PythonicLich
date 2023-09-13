@@ -76,7 +76,7 @@ I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I
   </summary>
   <br>
   <ul>
-  <li><img src="https://img.shields.io/badge/CNED-BTS_SIO_SLAM_2023-gold"></img></li>
+  <li><img src="https://img.shields.io/badge/CNED-BTS_SIO_SLAM_2023--2025-gold"></img></li>
   <li><img src="https://img.shields.io/badge/Coursera-Specializations-gold?logo=coursera"></img></li>
   <li><img src="https://img.shields.io/badge/Codecademy-Career_paths-gold?logo=codecademy"></img></li>
   <li><img src="https://img.shields.io/badge/Freecodecamp-Certifications-gold?logo=freecodecamp"></img></li>
@@ -89,15 +89,18 @@ I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I
     🤼 Soft Skills
   </summary>
   <br>
-  <ul>
-  <li>Agile Project Management</li>
-  <li>Scrumban</li>
-  <li>Communication</li>
-  <li>Cooperation</li>
-  <li>Adaptability</li>
-  <li>Problem Solving</li>
-  <li>Emotional Intelligence</li>
-  </ul>
+  <img src="https://img.shields.io/badge/Agile_Project_Management-gold"></img>
+  <img src="https://img.shields.io/badge/Scrumban-gold"></img>
+  <img src="https://img.shields.io/badge/Communication-gold"></img>
+  <img src="https://img.shields.io/badge/Cooperation-gold"></img>
+  <img src="https://img.shields.io/badge/Adaptability-gold"></img>
+  <img src="https://img.shields.io/badge/Problem_Solving-gold"></img>
+  <img src="https://img.shields.io/badge/Emotional_Intelligence-gold"></img>
+  <img src="https://img.shields.io/badge/Clean_Code-gold"></img>
+  <img src="https://img.shields.io/badge/TDD-gold"></img>
+  <img src="https://img.shields.io/badge/DRY-gold"></img>
+  <img src="https://img.shields.io/badge/SOLID-gold"></img>
+  <img src="https://img.shields.io/badge/KISS-gold"></img>
 </details>
 
 I can't wait to hear from you! Send me a message through my <a href="https://github.com/PythonicLich/PythonicLich/issues" target="_blank">Guest Book!</a>
