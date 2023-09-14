@@ -3,7 +3,7 @@ I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I
 
 <details><summary>💻 languages</summary>
   <br>
-  <img src="https://img.shields.io/badge/javascript-ECMAScript_2021-blue?logo=javascript"></img>
+  <img src="https://img.shields.io/badgeJavascript-ECMAScript_2021-blue?logo=javascript"></img>
   <img src="https://img.shields.io/badge/C_Sharp-11.00-blue?logo=CSharp"></img>
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=Python"></img>
   <img src="https://img.shields.io/badge/HTML-5-blue?logo=html5"></img>
@@ -12,7 +12,7 @@ I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I
 
 <details><summary>🚀 stacks and frameworks</summary>
   <br>
-  <img src="https://img.shields.io/badge/react-18-blue?logo=react"></img>
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react"></img>
   <img src="https://img.shields.io/badge/Node-18.00-blue?logo=nodedotjs"></img>
   <img src="https://img.shields.io/badge/.NET-7.00-blue?logo=.NET"></img>
   <img src="https://img.shields.io/badge/Blazor-blue?logo=blazor"></img>
@@ -60,14 +60,56 @@ I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I
 
 <details><summary>📖 🎮 interests</summary>
   <br>
-  <ul>
-  <li>Progression Fantasy (Cradle, Mother of Learning, Mage Errant)</li>
-  <li>LitRPGs</li>
-  <li>CRPGs (Baldur's Gate, Pathfinder, Planescape Torment, Neverwinter Nights)</li>
-  <li>Metroidvanias</li>
-  <li>Point & Clicks</li>
-  <li>Choose your own adventure</li>
-  </ul>
+  <img src="https://img.shields.io/badge/Progression_Fantasy-Cradle-gold">
+  <img src="https://img.shields.io/badge/Progression_Fantasy-Mother_of_Learning-gold">
+  <img src="https://img.shields.io/badge/Progression_Fantasy-Mage_Errant-gold">
+  <img src="https://img.shields.io/badge/Progression_Fantasy-Art_of_the_Adept-gold">
+  <img src="https://img.shields.io/badge/LitRPG-Azarinth_Healer-gold">
+  <img src="https://img.shields.io/badge/LitRPG-He_who_fights_with_monsters-gold">
+  <img src="https://img.shields.io/badge/LitRPG-Dungeon_Crawler_Carl-gold">
+  <img src="https://img.shields.io/badge/LitRPG-Dragon_Sorcerer-gold">
+  <img src="https://img.shields.io/badge/LitRPG-Demonic_Devourer-gold">
+  <img src="https://img.shields.io/badge/Xianxia-Path_of_Lazy_Immortal-gold">
+  <img src="https://img.shields.io/badge/Xianxia-I_Shall_Seal_the_Heavens-gold">
+  <img src="https://img.shields.io/badge/Xianxia-A_Will_Eternal-gold">
+  <img src="https://img.shields.io/badge/Xianxia-Pursuit_of_the_Truth-gold">
+  <img src="https://img.shields.io/badge/Xianxia-Renegade_Immortal-gold">
+  <img src="https://img.shields.io/badge/Xianxia-Tales_of_Demons_and_Gods-gold">
+  <img src="https://img.shields.io/badge/Xianxia-Reverend_Insanity-gold">
+  <img src="https://img.shields.io/badge/Xianxia-Douluo_Dalu-gold">
+  <img src="https://img.shields.io/badge/Xianxia-World_of_Cultivation-gold">
+  <img src="https://img.shields.io/badge/Xianxia-Battle_through_the_Heavens-gold">
+  <img src="https://img.shields.io/badge/Xianxia-Martial_Peak-gold">
+  <img src="https://img.shields.io/badge/Fantasy-Game_of_Thrones-gold">
+  <img src="https://img.shields.io/badge/Science--Fiction-The_Expanse-gold">
+  <img src="https://img.shields.io/badge/Science--Fiction-Silo-gold">
+  <img src="https://img.shields.io/badge/CRPG-Baldur's_Gate_series-gold">
+  <img src="https://img.shields.io/badge/CRPG-Pathfinder_series-gold">
+  <img src="https://img.shields.io/badge/CRPG-Planescape_Torment-gold">
+  <img src="https://img.shields.io/badge/CRPG-Neverwinter_Knights_series-gold">
+  <img src="https://img.shields.io/badge/CRPG-Kotor_series-gold">
+  <img src="https://img.shields.io/badge/CRPG-Divinity_Original_Sin_series-gold">
+  <img src="https://img.shields.io/badge/CRPG-Arcanum-gold">
+  <img src="https://img.shields.io/badge/CRPG-Shadowrun_series-gold">
+  <img src="https://img.shields.io/badge/CRPG-ATOM_RPG-gold">
+  <img src="https://img.shields.io/badge/CRPG-Fallout_series-gold">
+  <img src="https://img.shields.io/badge/Metroidvania-Hollow_Knight-gold">
+  <img src="https://img.shields.io/badge/Metroidvania-Star_Wars_Jedi_series-gold">
+  <img src="https://img.shields.io/badge/Metroidvania-Supraland-gold">
+  <img src="https://img.shields.io/badge/Metroidvania-Carrion-gold">
+  <img src="https://img.shields.io/badge/Metroidvania-Dust_an_Elysian_tale-gold">
+  <img src="https://img.shields.io/badge/Metroidvania-Sundered-gold">
+  <img src="https://img.shields.io/badge/Metroidvania-Grime-gold">
+  <img src="https://img.shields.io/badge/Metroidvania-Blasphemous-gold">
+  <img src="https://img.shields.io/badge/Metroidvania-Ori_series-gold">
+  <img src="https://img.shields.io/badge/Metroidvania-Dead_Cells-gold">
+  <img src="https://img.shields.io/badge/Choose_your_own_adventure-The_Henry_Stickmin_Collection-gold">
+  <img src="https://img.shields.io/badge/Choose_your_own_adventure-The_Life_and_suffering_of_Sir_Brante-gold">
+  <img src="https://img.shields.io/badge/Choose_your_own_adventure-Kindergarden_series-gold">
+  <img src="https://img.shields.io/badge/ONLINE-Dota_2-gold">
+  <img src="https://img.shields.io/badge/ONLINE-SWTOR-gold">
+  <img src="https://img.shields.io/badge/ONLINE-Guild_Wars_2-gold">
+  <img src="https://img.shields.io/badge/ONLINE-WoW-gold">
 </details>
 
 <details>
