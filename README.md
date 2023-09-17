@@ -145,6 +145,27 @@ I am **Pythonic Lich**! I am preparing a BTS SIO SLAM degree through the CNED. I
   <img src="https://img.shields.io/badge/KISS-gold"></img>
 </details>
 
+<details>
+  <summary>
+    ✨ projects I would be interested in building
+  </summary>
+  <br>
+  <ul>
+    <li>Reddit wrapper that highlights posts with high potential</li>
+    <li>Reddit firefox extension that highlight comments with a higher karma than their parent</li>
+    <li>Motivational reminders - enter a list of reasons why you're doing something, then be periodically reminded through email, phone notifications, and windows push messages</li>
+    <li>Flash Cards for the CNED study program</li>
+    <li>Building a rough project planner using the Mermaid.js diagram tool</li>
+    <li>Charting the evolution of the most popular manga/manhua through time</li>
+    <li>A basic recipe website</li>
+    <li>Self-updating watchlist of key technological concepts using RSS feeds and web scraping, and presenting those results in blog form</li>
+    <li>A discord bot</li>
+    <li>Recommending a new book to read based on a Goodreads profile</li>
+    <li>Finding good deals on LeBonCoin and others P2P websites</li>
+    <li>Create an interactive fiction game, something like a Visual Novel</li>
+  </ul>
+</details>
+
 I can't wait to hear from you! Send me a message through my <a href="https://github.com/PythonicLich/PythonicLich/issues" target="_blank">Guest Book!</a>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,bash,powershell,lua,md,react,regex,sqlite,bootstrap,discord,dotnet,figma,stackoverflow)](https://skillicons.dev)
